@@ -19,23 +19,19 @@ https://git-scm.com/download
 - To see infos of changes made before commit (  
     `git status`  
 )
-<br/>
-<br/>
+
 - Way to start git ( `git init` )
-<br/>
-<br/>
+
 - Before commit it's needed to add the files to the commit (the point in the timeline of the project), it's like a space that you put the files you want to create a point in the timeline, the way to do that is using (  
     `git add "file"`  
     shorthand to add all files in folder  
     `git add . `  
 )
-<br/>
-<br/>
+
 - Way to check the commits made is by (  
     `git log`  
 )
-<br/>
-<br/>
+
 - `git commit` (
 
     Way to create points on the timeline of production of your project  
@@ -45,13 +41,11 @@ https://git-scm.com/download
         `git commit -am "commit description"`
         
 )
-<br/>
-<br/>
+
 - Way to verify changes made into project (  
     `git show`  
 )
-<br/>
-<br/>
+
 - `git branch` (
 
     Way to start a new functionality in the project without messing with what have been made  
@@ -65,8 +59,7 @@ https://git-scm.com/download
         `git branch -D "branch name you want to delte"`
 
 )
-<br/>
-<br/>
+
 - `git checkout` (
 
     To switch between main/master and branch, you can use  
@@ -86,18 +79,15 @@ https://git-scm.com/download
         `git checkout "commit id" -- "file name"`
 
 )
-<br/>
-<br/>
+
 - To check files in repository/branches
 
     `ls -al` ('-al' adds more info to shown files)
-<br/>
-<br/>
+
 - Way to add news functionalities to your project in production (  
     `git merge "branch's name of the branch you want to apply/merge to main/master repository"` (I think you need to be at the repository you want o merge the branch)  
 )
-<br/>
-<br/>
+
 - `git remote` (
 
     Way to upload repository to cloud  
@@ -107,8 +97,7 @@ https://git-scm.com/download
         `git remote -v`
 
 )
-<br/>
-<br/>
+
 - `git push` (
 
     To push/upload repository "master" to the one created in GitHub  
@@ -119,13 +108,11 @@ https://git-scm.com/download
         `git push`
 
 )
-<br/>
-<br/>
+
 - To get a repository from GitHub (  
     `git clone "link of repository"`  
 )
-<br/>
-<br/>
+
 - To get alterations from remote repository (  
     `git pull`  
 )
