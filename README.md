@@ -10,7 +10,7 @@ I've followed/noted things presented in the video while doing them to learn how 
 
 https://git-scm.com/download
 
-# SCENES
+# Commands
 
 - To quit log, press "q"
 
