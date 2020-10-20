@@ -34,6 +34,8 @@ https://git-scm.com/download
 
 - `git commit` (
 
+    Commit's message/descriptions just apply to changed/added files
+
     Way to create points on the timeline of production of your project  
         `git commit -m "commit description"` (-m == message I think)
 
