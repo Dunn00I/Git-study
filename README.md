@@ -1,6 +1,6 @@
 # GIT E GITHUB
 
-Guide for beginners.
+This is a repository of my study involving Git.
 
 This README I've done watching this video: https://www.youtube.com/watch?v=2alg7MQ6_sI
 
